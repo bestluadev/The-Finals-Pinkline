@@ -1,3 +1,4 @@
+git add C:/ -f
 using ClickableTransparentOverlay;
 using HUNT_S_CHEAT_CS2;
 using ImGuiNET;
